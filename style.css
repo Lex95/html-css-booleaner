@@ -35,3 +35,20 @@ main {
     font-size: 1rem;
     margin-top: 0;
 }
+thead {
+    background-color: rgb(66, 135, 245);
+    color: white;
+    font-weight: bold;
+}
+#td1 {
+    width: 25%;
+}
+#td2 {
+    width: 25%;
+}
+#td3 {
+    width: 50%;
+}
+.lblue {
+    background-color: lightskyblue;
+}
