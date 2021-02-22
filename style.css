@@ -1,0 +1,30 @@
+header {
+    background-color: rgb(66, 135, 245);
+}
+.header-container {
+    background-image: url(img/pattern.png);
+    background-size: 27%;
+}
+.logo {
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+main {
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 2rem;
+}
+.titolo {
+    margin-bottom: 0;
+}
+.sotto-titolo {
+    color: grey;
+    font-size: 1.5rem;
+}
+#nome-editore {
+    color: rgb(66, 135, 245);
+}
+.data-sotto-titolo {
+    font-size: 1rem;
+}
