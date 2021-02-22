@@ -13,14 +13,17 @@ header {
 main {
     margin-left: 150px;
     margin-right: 150px;
+}
+.section {
     font-size: 2rem;
 }
 .titolo {
     margin-bottom: 0;
+    font-size: 3rem;
 }
 .sotto-titolo {
     color: grey;
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 #nome-editore {
     color: rgb(66, 135, 245);
