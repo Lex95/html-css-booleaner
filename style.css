@@ -13,30 +13,36 @@ header {
 main {
     margin-left: 150px;
     margin-right: 150px;
+    font-size: 1rem;
 }
-.section {
-    font-size: 2rem;
-}
+
 .titolo {
+    margin-top: 20px;
     margin-bottom: 0;
-    font-size: 3rem;
+    font-size: 3em;
 }
 .sotto-titolo {
     color: grey;
-    /* font-size: 1.5rem; */
 }
 #nome-editore {
     color: rgb(66, 135, 245);
 }
 .data-sotto-titolo {
-    font-size: 1rem;
+    color: grey;
+    font-size: 0.8em;
 }
 .img-desc {
-    font-size: 1rem;
     margin-top: 0;
+    font-size: 0.8em;
 }
 .evidenziato {
     background-color: yellow;
+}
+ul {
+    padding-left: 16px;
+}
+table {
+    border-spacing: 0;
 }
 thead {
     background-color: rgb(66, 135, 245);
@@ -58,20 +64,25 @@ thead {
 .correlati {
     color: grey;
     font-weight: bold;
+    font-size: 1.2em;
 }
 .correlato-1 {
     color: white;
     font-weight: bold;
+    font-size: 1.2em;
     background-image: url(img/monitor.jpg);
     background-size: cover;
-    height: 208px;
-    width: 312px;
+    height: 200px;
+    width: 250px;
+    padding: 20px;
 }
 .correlato-2 {
     color: white;
     font-weight: bold;
+    font-size: 1.2em;
     background-image: url(img/graph.jpg);
     background-size: cover;
-    height: 208px;
-    width: 312px;
+    height: 200px;
+    width: 250px;
+    padding: 20px;
 }
