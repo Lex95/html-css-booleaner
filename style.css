@@ -35,6 +35,9 @@ main {
     font-size: 1rem;
     margin-top: 0;
 }
+.evidenziato {
+    background-color: yellow;
+}
 thead {
     background-color: rgb(66, 135, 245);
     color: white;
@@ -51,4 +54,24 @@ thead {
 }
 .lblue {
     background-color: lightskyblue;
+}
+.correlati {
+    color: grey;
+    font-weight: bold;
+}
+.correlato-1 {
+    color: white;
+    font-weight: bold;
+    background-image: url(img/monitor.jpg);
+    background-size: cover;
+    height: 208px;
+    width: 312px;
+}
+.correlato-2 {
+    color: white;
+    font-weight: bold;
+    background-image: url(img/graph.jpg);
+    background-size: cover;
+    height: 208px;
+    width: 312px;
 }
