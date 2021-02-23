@@ -4,6 +4,7 @@ header {
 .header-container {
     background-image: url(img/pattern.png);
     background-size: 27%;
+    /* si possono definire sia bg-img che bg-color nello stesso blocco */
 }
 .logo {
     width: 200px;
@@ -15,7 +16,6 @@ main {
     margin-right: 150px;
     font-size: 1rem;
 }
-
 .titolo {
     margin-top: 20px;
     margin-bottom: 0;
@@ -43,6 +43,7 @@ ul {
 }
 table {
     border-spacing: 0;
+    /* funziona anche border-collapse: collapse; */
 }
 thead {
     background-color: rgb(66, 135, 245);
